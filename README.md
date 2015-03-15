@@ -21,6 +21,9 @@ And your repository will include the following files:
 The GitHub readme file.
 * and some images in the images directory.
 
+##Console Commands used
+
+
 ## Your starting point...
 ### js/helper.js
 Within helper.js, you’ll find a large collection of strings containing snippets of HTML. Within many snippets, you’ll find placeholder data in the form of `%data%` or `%contact%`.
